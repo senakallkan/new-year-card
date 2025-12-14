@@ -1,1 +1,1 @@
-# yapay-zeka
+# new-year
